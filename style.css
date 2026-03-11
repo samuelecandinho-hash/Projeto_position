@@ -33,4 +33,11 @@ body{
 .img{
     height: 120px;
     width: 120px;
+body {
+    background-color:#494D5F;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.blue{
+    background-color: rgb(119, 119, 173);
 }
