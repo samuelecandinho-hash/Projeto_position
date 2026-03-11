@@ -63,3 +63,9 @@ body{
     position: relative;
     left: 80px;
 }
+.inline{
+    display: inline;
+}
+.inline-block{
+    display: inline-block;
+}
