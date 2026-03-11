@@ -1,8 +1,6 @@
 body{
 
         background-color: #494D5F;
-        padding: 20px;
-        margin: 30px;
 
 }
 .bloco{
@@ -34,8 +32,6 @@ body{
     height: 120px;
     width: 120px;
 }
-
-
 .blue{
     background-color: rgb(119, 119, 173);
     padding: 12px;
@@ -55,4 +51,15 @@ body{
 }
 .flex{
     display: flex;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.logotext{
+    position: relative;
+    left: 80px;
 }
