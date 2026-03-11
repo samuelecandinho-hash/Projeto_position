@@ -54,6 +54,8 @@ button {
 .logo{
     height: 80px;
     width: 80px;
+    position: relative;
+    left: 40px
 }
 .inline{
     display: inline;
