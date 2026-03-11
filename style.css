@@ -25,7 +25,7 @@ body{
     align-items: center;
 }
 .amarelo{
-    background-color: rgb(168, 168, 48);
+    background-color: #091f36;
     color: white;
 }
 button {
@@ -41,7 +41,7 @@ button {
     padding: 12px;
 }
 .orange{
-    background-color: orange;
+    background-color: #e1b382;
     height: 320px;
 }
 .flex{
