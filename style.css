@@ -1,7 +1,5 @@
 body{
         background-color: #494D5F;
-        padding: 20px;
-        margin: 30px;
 
 }
 .bloco{
@@ -48,6 +46,17 @@ button {
 }
 .flex{
     display: flex;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.logotext{
+    position: relative;
+    left: 80px;
 }
 .inline{
     display: inline;
