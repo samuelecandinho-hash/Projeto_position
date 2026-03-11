@@ -1,5 +1,4 @@
 body{
-
         background-color: #494D5F;
         padding: 20px;
         margin: 30px;
@@ -31,12 +30,14 @@ body{
     background-color: rgb(168, 168, 48);
     color: white;
 }
+button {
+    background-color:green;
+    border-radius:30px;
+}
 .img{
     height: 120px;
     width: 120px;
 }
-
-
 .blue{
     background-color: rgb(119, 119, 173);
     padding: 12px;
@@ -44,15 +45,6 @@ body{
 .orange{
     background-color: orange;
     height: 320px;
-}
-.first{
-    background-color: blue;
-    padding: 12px;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    height: 64px;
-    width: 64px;
 }
 .flex{
     display: flex;
