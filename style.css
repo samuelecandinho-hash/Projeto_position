@@ -1,4 +1,10 @@
+body{
 
+        background-color: #494D5F;
+        padding: 20px;
+        margin: 30px;
+
+}
 .bloco{
     background-color: antiquewhite;
     padding: 10px;
@@ -29,10 +35,6 @@
     width: 120px;
 }
 
-body {
-    background-color:#494D5F;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 
 .blue{
     background-color: rgb(119, 119, 173);
@@ -40,6 +42,7 @@ body {
 }
 .orange{
     background-color: orange;
+    height: 320px;
 }
 .first{
     background-color: blue;
