@@ -63,3 +63,11 @@ button {
 .inline-block{
     display: inline-block;
 }
+.um{
+    height: 100px;
+    width: 80px;
+}
+.dois{
+    height: 80px;
+    width: 100px;
+}
