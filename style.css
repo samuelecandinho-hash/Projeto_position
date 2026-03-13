@@ -98,4 +98,10 @@ button:hover {
 .block-flow{
     display: block-flow;
 }
+.grid{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: dodgerblue;
+    padding: 10px;
+}
 
