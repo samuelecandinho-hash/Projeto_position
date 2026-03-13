@@ -79,10 +79,23 @@ button:hover {
     display: inline-block;
 }
 .um{
-    height: 100px;
+    height: 200px;
     width: 80px;
 }
 .dois{
     height: 80px;
-    width: 100px;
+    width: 400px;
 }
+.inline-flex{
+    display: inline-flex;
+}
+.inline-grid{
+    display: inline-grid;
+}
+.flow-root{
+    display: flow-root 
+}
+.block-flow{
+    display: block-flow;
+}
+
