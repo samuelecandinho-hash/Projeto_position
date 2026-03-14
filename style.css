@@ -41,7 +41,7 @@ body{
 }
 .orange{
     
-    background: linear-gradient(90deg, #f3ab2f, #FDBA74);
+    background: linear-gradient(90deg, #f3ab2f, #ffce99);
     display: flex;
     justify-content: space-between;
     align-items: center;
