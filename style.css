@@ -88,10 +88,12 @@ body{
 }
 .grid{
     display: grid;
-    grid-template-columns:auto;
+    max-width: 400px;
+    grid-template-columns: 120px 120px 120px;
     background-color: #1E293B;
     padding: 10px;
 }
+
 button {
     color:#2563EB;
     background-color: transparent;
