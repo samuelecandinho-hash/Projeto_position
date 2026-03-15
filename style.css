@@ -83,9 +83,6 @@ body{
 .flow-root{
     display: flow-root 
 }
-.block-flow{
-    display: block-flow;
-}
 .grid{
     display: grid;
     max-width: 400px;
@@ -147,4 +144,7 @@ td{
 .cell{
     display:table-cell;
     vertical-align: center;
+}
+.block-flow{
+    display: block flow;
 }
