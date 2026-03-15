@@ -130,3 +130,21 @@ button:hover::before {
     grid-template-columns: 120px 120px 120px;
     padding: 10px;
 }
+th{
+    background-color: rgb(139, 139, 139);
+    border: 1px solid #3f3f3f;
+    padding: 6px;
+}
+td{
+    background-color: rgb(199, 199, 199);
+    border: 1px solid #3f3f3f;
+    padding: 6px;
+}
+.table{
+    display: table;
+    height: 200px;
+}
+.cell{
+    display:table-cell;
+    vertical-align: center;
+}
