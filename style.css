@@ -18,7 +18,7 @@ body{
     padding: 10px;
     margin: 20px;
     border-radius:30px;
-
+    color: white
 }
 .flex{
     display: flex;
@@ -124,4 +124,9 @@ button:hover {
 button:hover::before {
   opacity: 1;
   transform: rotate(-45deg) translateY(100%);
+}
+.inline-grid{
+    display: inline-grid;
+    grid-template-columns: 120px 120px 120px;
+    padding: 10px;
 }
