@@ -29,8 +29,6 @@ body{
     color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-
 .img{
     height: 120px;
     width: 120px;
@@ -145,6 +143,21 @@ td{
     display:table-cell;
     vertical-align: center;
 }
-.block-flow{
-    display: block flow;
+.static{
+    position: static;
+    left: 40px; /* As expected, this property doesn't do jack shit */ 
+}
+.relative{
+    position: relative;
+    left: 40px; /* As expected, this property does jack shit */ 
+}
+.absolute{
+    position: absolute;
+}
+.fixed{
+    position: fixed;
+    left: 1300px;
+}
+.sticky{
+    position: sticky;
 }
