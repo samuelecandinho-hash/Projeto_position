@@ -148,11 +148,11 @@ td{
 }
 .static{
     position: static;
-    left: 40px; /* As expected, this property doesn't do jack shit */  /*não sei porque o Stock deixou em ingles o comentario */
+    left: 40px; /* As expected, this property doesn't do jack shit */
 }
 .relative{
     position: relative;
-    left: 40px; /* As expected, this property does jack shit */ /*não sei porque o Stock deixou em ingles o comentario */
+    left: 40px; /* As expected, this property does jack shit */
 }
 .absolute{
     position: absolute;
