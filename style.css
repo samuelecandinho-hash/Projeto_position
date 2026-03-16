@@ -99,7 +99,7 @@ button {
         position:relative;
 }
 button::before {
-     content: '';
+    content: '';
   position: absolute;
   top: -50%;
   left: -50%;
@@ -145,11 +145,11 @@ td{
 }
 .static{
     position: static;
-    left: 40px; /* As expected, this property doesn't do jack shit */ 
+    left: 40px; /* As expected, this property doesn't do jack shit */  /*não sei porque o Stock deixou em ingles o comentario */
 }
 .relative{
     position: relative;
-    left: 40px; /* As expected, this property does jack shit */ 
+    left: 40px; /* As expected, this property does jack shit */ /*não sei porque o Stock deixou em ingles o comentario */
 }
 .absolute{
     position: absolute;
