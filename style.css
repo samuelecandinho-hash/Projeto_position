@@ -79,7 +79,7 @@ body{
     display: inline-grid;
 }
 .flow-root{
-    display: flow-root 
+    display: flow-root; 
 }
 .grid{
     display: grid;
@@ -153,11 +153,18 @@ td{
 }
 .absolute{
     position: absolute;
+    top: 50%;
+    right: 0;
 }
 .fixed{
-    position: fixed;
-    left: 1300px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  max-width: 450px;
+  z-index: 999;
 }
 .sticky{
     position: sticky;
+    bottom: 0;
 }
+
