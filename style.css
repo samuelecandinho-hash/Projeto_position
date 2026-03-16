@@ -130,6 +130,9 @@ th{
     border: 1px solid #3f3f3f;
     padding: 6px;
 }
+.flow {
+    display: flow;
+}
 td{
     background-color: rgb(199, 199, 199);
     border: 1px solid #3f3f3f;
